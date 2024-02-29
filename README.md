@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Predictive Analysis**
 
-- ⚡ Fun fact **you may like my energy, I don't have any.**
+- ⚡ Fun fact **You may like my energy, I don't have any.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
